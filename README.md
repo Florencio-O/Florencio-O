@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Florencio-O
+- 👋 Hi, I’m Florencio
 
