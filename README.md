@@ -5,5 +5,6 @@
 - 🖥️ Most projects are a mixture of both tools and games
 
 Recent Projects
+- [GDL](https://florencio-o.github.io/gdl/)
 - [RLD](https://github.com/florencio-o/RLD)
 - [Delivery Flaps FBLA](https://github.com/florencio-o/df-fbla)
